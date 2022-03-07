@@ -1,0 +1,9 @@
+{
+  "name": "gaction-assert-branch-name",
+  "version": "0.0.1",
+  "description": "Assert branch names through github actions",
+  "main": "index.js",
+  "repository": "git@github.com:dvj1988/githubaction-assert-branch-name.git",
+  "author": "Diljit VJ",
+  "license": "MIT"
+}
